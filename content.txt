@@ -1,0 +1,17 @@
+** Algorithms
+-> /bubblesort 
+-> /insertionsort
+-> /mergesort
+-> /quicksort
+-> /selectionsort
+-> /binarysearch
+-> /linearsearch
+-> /recursion
+-> /queueimplementation
+-> /stacksimplementation
+-> /twoStacksimplementation
+-> /graphbfs
+-> /graphdfs
+
+** Simply copy paste any Algorithms from above and get the code...
+** All Algorithms would be written in JavaScript
